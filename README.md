@@ -34,9 +34,22 @@ Our ZATCA Phase 2 Integration plugin offers flexible pricing plans to meet your 
 | **Standard Plan**  | $10.99     | 3              | 10,000              |
 | **Premium Plan**   | $15.99     | 6              | 20,000              |
 
-### Payment Information
-- All payments are processed securely through [your payment processor] (e.g., Stripe, PayPal).
-- Subscriptions can be managed directly from the plugin settings in your WordPress dashboard.
+# ZATCA Phase 2 Integration WordPress Plugin
+
+![Plugin Dashboard](zacta-wordpress-dashboard.png)
+
+## Features
+- **Businesses**: Easily add as many business entities as you need.
+![Businesses list](zacta-business-list.png)
+![Businesses create](zacta-add-business.png)
+
+- **Transactions Management**: Send invoices, credit notes, and debit notes to ZATCA with ease.
+![Invoice Creation](zacta-create-txn.png)
+![QR Code Generation](zacta-qr-code.png)
+![Zacta Response After Txn Submit](zacta-repsonse-after-submit.png)
+![Invoice Details](invoce-details.png)
+
+
 
 ### Benefits of Subscription
 - **Scalability**: Choose a plan that fits your current needs and upgrade as your business grows.
