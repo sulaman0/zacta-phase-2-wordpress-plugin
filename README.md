@@ -46,7 +46,9 @@ Our ZATCA Phase 2 Integration plugin offers flexible pricing plans to meet your 
 
 ## Contact
 For inquiries, support, or collaboration, please reach out:
+- **WhatsApp**: [Click to chat](https://wa.me/923167852626)
 - **LinkedIn**: [Connect me on Linkedin](https://www.linkedin.com/in/sulaman-khan-601ab9137/)
+
 
 ## Acknowledgements
 Thanks to the ZATCA team for their guidelines and support in developing this plugin.
