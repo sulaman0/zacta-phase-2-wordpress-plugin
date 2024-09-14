@@ -31,8 +31,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 For inquiries, support, or collaboration, please reach out:
-- **WhatsApp**: [Click to chat](https://wa.me/923167852626)
-- **LinkedIn**: [your-linkedin-profile](https://www.linkedin.com/in/sulaman-khan-601ab9137/)
+- **LinkedIn**: [Connect me on Linkedin](https://www.linkedin.com/in/sulaman-khan-601ab9137/)
 
 ## Acknowledgements
 Thanks to the ZATCA team for their guidelines and support in developing this plugin.
