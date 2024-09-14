@@ -18,16 +18,31 @@ This WordPress plugin provides seamless integration with ZATCA Phase 2, allowing
 
 ## Usage
 After installation, you can:
+- Connect with me & get the wordpress plugin.
 - Go to the **ZATCA** menu in your WordPress dashboard.
 - Add and manage multiple businesses.
 - Create and send invoices, credit notes, and debit notes.
 - Generate and download QR codes for compliance.
 
-## Contributing
-Contributions are welcome! If you have suggestions for improvements or find a bug, please open an issue or submit a pull request.
+## Pricing Plans
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+Our ZATCA Phase 2 Integration plugin offers flexible pricing plans to meet your business needs:
+
+| Plan Name          | Monthly Fee | Max Businesses | Max Invoices/Month |
+|--------------------|-------------|----------------|---------------------|
+| **Basic Plan**     | $5.99      | 1              | 5,000               |
+| **Standard Plan**  | $10.99     | 3              | 10,000              |
+| **Premium Plan**   | $15.99     | 6              | 20,000              |
+
+### Payment Information
+- All payments are processed securely through [your payment processor] (e.g., Stripe, PayPal).
+- Subscriptions can be managed directly from the plugin settings in your WordPress dashboard.
+
+### Benefits of Subscription
+- **Scalability**: Choose a plan that fits your current needs and upgrade as your business grows.
+- **Support**: Access priority support based on your subscription level.
+- **Updates**: Get all future updates and new features included in your subscription.
+
 
 ## Contact
 For inquiries, support, or collaboration, please reach out:
